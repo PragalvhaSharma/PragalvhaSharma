@@ -123,7 +123,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://github.com/PragalvhaSharma/PragalvhaSharma/blob/main/Snake.svg" alt="snake"/>
 </p>
 
 
