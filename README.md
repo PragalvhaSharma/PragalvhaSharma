@@ -6,41 +6,6 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
 Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
 
 
-### How to reach me :mailbox:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/sam_gyps)
-
-
-### Social media: 📡  
-Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me.
-
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
-
-## Competitions: 🥇
-
-### Algorithms [LeetCode](https://leetcode.com/sammorozov/)
-
-### CTF's
-
-| CTF | Result | Team | Date |
-|-----|-----|-----|-----|
-|CIT@CTF|top 6%|undermouses|04/2024|
-|Space HeroesCTF| top 23% | check_yor_mom |04/2024|
-|swampCTF|top 17%|check_your_mouse |03/2024|
-|wolvCTF|top 31%| undermouses|03/2024|
-|ethernautCTF|out of competition|solo|03/2024|
-|osuCTF|top 35%| undermouses |02/2024|
-|vksCTF|top 15%| Solo played |09/2023|
-
-
-
-### Working on: 🚀
-
-- Tweaking this README for optimal engagement 
-- [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
-- [ethernaut tasks](https://github.com/sammorozov/ethernaut_source_tasks)
-- Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
-
-
 ## Languages and Tools 
 <div>
 
